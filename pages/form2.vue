@@ -12,100 +12,100 @@
         <p class="vaccineform__question">1. Are you sick today or currently in an isolation or quarantine period for COVID-19?</p>
         <div class="vaccinecheckbox">
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="Yes">
+            <input type="radio" name="q1" value="Yes">
             <label class="vaccineform__label vaccinecheckbox-label" for="q1">Yes</label>
           </div>
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="No">
+            <input type="radio" name="q1" value="No">
             <label class="vaccineform__label vaccinecheckbox-label" for="q1">No</label>
           </div>
         </div>
         <p class="vaccineform__question">2. Have you had a positive COVID-19 test in the last 3 months/90 days?</p>
         <div class="vaccinecheckbox">
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q2" value="Yes">
+            <input type="radio" name="q2" value="Yes">
             <label class="vaccineform__label vaccinecheckbox-label" for="q2">Yes</label>
           </div>
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q2" value="No">
+            <input type="radio" name="q2" value="No">
             <label class="vaccineform__label vaccinecheckbox-label" for="q2">No</label>
           </div>
         </div>
         <p class="vaccineform__question">3. Have you ever had a severe allergic reaction (e.g., anaphylaxis) to something?  For example, areaction for which you were treated with epinephrine or EpiPen®, or for which you had to go tothe hospital?</p>
         <div class="vaccinecheckbox">
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q3" value="Yes">
+            <input type="radio" name="q3" value="Yes">
             <label class="vaccineform__label vaccinecheckbox-label" for="q3">Yes</label>
           </div>
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q3" value="No">
+            <input type="radio" name="q3" value="No">
             <label class="vaccineform__label vaccinecheckbox-label" for="q3">No</label>
           </div>
         </div>
         <p class="vaccineform__question">4. Have you ever had a serious reaction after receiving a vaccine or another injectable medication?</p>
         <div class="vaccinecheckbox">
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="Yes">
-            <label class="vaccineform__label vaccinecheckbox-label" for="q1">Yes</label>
+            <input type="radio" name="q4" value="Yes">
+            <label class="vaccineform__label vaccinecheckbox-label" for="q4">Yes</label>
           </div>
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="No">
-            <label class="vaccineform__label vaccinecheckbox-label" for="q1">No</label>
+            <input type="radio" name="q4" value="No">
+            <label class="vaccineform__label vaccinecheckbox-label" for="q4">No</label>
           </div>
         </div>
         <p class="vaccineform__question">5 . Have you received any vaccinations in the past two weeks/14 days?</p>
         <div class="vaccinecheckbox">
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="Yes">
-            <label class="vaccineform__label vaccinecheckbox-label" for="q1">Yes</label>
+            <input type="radio" name="q5" value="Yes">
+            <label class="vaccineform__label vaccinecheckbox-label" for="q5">Yes</label>
           </div>
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="No">
-            <label class="vaccineform__label vaccinecheckbox-label" for="q1">No</label>
+            <input type="radio" name="q5" value="No">
+            <label class="vaccineform__label vaccinecheckbox-label" for="q5">No</label>
           </div>
         </div>
         <p class="vaccineform__question">6. Do you have a bleeding disorder or are you taking a blood thinner?</p>
         <div class="vaccinecheckbox">
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="Yes">
-            <label class="vaccineform__label vaccinecheckbox-label" for="q1">Yes</label>
+            <input type="radio" name="q6" value="Yes">
+            <label class="vaccineform__label vaccinecheckbox-label" for="q6">Yes</label>
           </div>
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="No">
-            <label class="vaccineform__label vaccinecheckbox-label" for="q1">No</label>
+            <input type="radio" name="q6" value="No">
+            <label class="vaccineform__label vaccinecheckbox-label" for="q6">No</label>
           </div>
         </div>
         <p class="vaccineform__question">7. Do you currently have a weakened immune system, take immunosuppressive medications, orreceive radiation or chemotherapy treatment?</p>
         <div class="vaccinecheckbox">
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="Yes">
-            <label class="vaccineform__label vaccinecheckbox-label" for="q1">Yes</label>
+            <input type="radio" name="q7" value="Yes">
+            <label class="vaccineform__label vaccinecheckbox-label" for="q7">Yes</label>
           </div>
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="No">
-            <label class="vaccineform__label vaccinecheckbox-label" for="q1">No</label>
+            <input type="radio" name="q7" value="No">
+            <label class="vaccineform__label vaccinecheckbox-label" for="q7">No</label>
           </div>
         </div>
         <p class="vaccineform__question">8. Are you pregnant or currently breastfeeding?</p>
         <div class="vaccinecheckbox">
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="Yes">
-            <label class="vaccineform__label vaccinecheckbox-label" for="q1">Yes</label>
+            <input type="radio" name="q8" value="Yes">
+            <label class="vaccineform__label vaccinecheckbox-label" for="q8">Yes</label>
           </div>
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="No">
-            <label class="vaccineform__label vaccinecheckbox-label" for="q1">No</label>
+            <input type="radio" name="q8" value="No">
+            <label class="vaccineform__label vaccinecheckbox-label" for="q8">No</label>
           </div>
         </div>
         <p class="vaccineform__question">9. Have you ever received a dose of COVID-19 vaccine?</p>
         <div class="vaccinecheckbox">
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="Yes">
-            <label class="vaccineform__label vaccinecheckbox-label" for="q1">Yes</label>
+            <input type="radio" name="q9" value="Yes">
+            <label class="vaccineform__label vaccinecheckbox-label" for="q9">Yes</label>
           </div>
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" name="q1" value="No">
-            <label class="vaccineform__label vaccinecheckbox-label" for="q1">No</label>
+            <input type="radio" name="q9" value="No">
+            <label class="vaccineform__label vaccinecheckbox-label" for="q9">No</label>
           </div>
         </div>
       </form>
@@ -202,7 +202,7 @@ export default {}
   padding-left: 20px;  
 }
 
-input[type="checkbox"] {
+input[type="radio"] {
   position: relative;
   width: 18px;
   height: 18px;
@@ -214,7 +214,7 @@ input[type="checkbox"] {
   outline: 0;
   cursor: pointer;
 }
-input[type="checkbox"]::before {
+input[type="radio"]::before {
   position: absolute;
   content: '';
   display: block;
@@ -228,12 +228,12 @@ input[type="checkbox"]::before {
   transform: rotate(45deg);
   opacity: 0;
 }
-input[type="checkbox"]:checked {
+input[type="radio"]:checked {
   color: #fff;
   border-color: #56CCF2;
   background: #56CCF2;
 }
-input[type="checkbox"]:checked::before {
+input[type="radio"]:checked::before {
     opacity: 1;
 }
 

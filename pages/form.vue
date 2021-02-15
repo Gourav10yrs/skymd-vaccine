@@ -36,12 +36,12 @@
         <h3 class="intropage__title">Primay Language</h3>
         <div class="vaccinecheckbox">
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" id="Language" name="English" value="English">
-            <label class="vaccineform__label vaccinecheckbox-label" for="English">English</label>
+            <input type="radio" id="Language" name="planguage" value="English">
+            <label class="vaccineform__label vaccinecheckbox-label" for="planguage">English</label>
           </div>
           <div class="vaccinecheckbox-div">
-            <input type="checkbox" id="Language" name="Other" value="Other">
-            <label class="vaccineform__label vaccinecheckbox-label" for="Other">Other</label>
+            <input type="radio" id="Language" name="planguage" value="Other">
+            <label class="vaccineform__label vaccinecheckbox-label" for="planguage">Other</label>
           </div>
         </div>
         <h3 class="intropage__title">Ethnicity</h3>
